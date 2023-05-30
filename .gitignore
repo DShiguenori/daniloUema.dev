@@ -1,2 +1,5 @@
+# Ignoring the folder with the vscode settings
 .vscode
+
+# Ignoring the folder with the built blazor app
 bin
